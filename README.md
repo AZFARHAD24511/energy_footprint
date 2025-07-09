@@ -20,7 +20,9 @@ A Streamlit dashboard to explore energy‑intensive processes and their footprin
 
 [> Replace with your Streamlit Cloud URL once deployed](https://energyfootprints.streamlit.app/)
 
-## Repository Structure
+## Repository Structure  ![In Progress](https://img.shields.io/badge/status-in--progress-blue)
+
+
 
 
 
