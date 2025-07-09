@@ -18,7 +18,7 @@ Any push to `main` will auto–redeploy your app.
 ## Local install
 
 ```bash
-git clone https://github.com/<you>/energy-process-explorer.git
+git clone https://github.com/AZFARHAD24511/energy-process-explorer.git
 cd energy-process-explorer
 pip install -r requirements.txt
 streamlit run energy_process_dashboard.py
