@@ -6,16 +6,23 @@ A Streamlit dashboard to explore energy‐intensive processes:
 - View table of matching processes
 - Bar charts for production energy input and energy content
 
-## Deploy on Streamlit Cloud
+# Energy Footprint Explorer
 
-1. Push this repo to GitHub.
-2. Go to https://streamlit.io/cloud → “New app” → Select your repo/branch.
-3. Set **Main file**: `energy_process_dashboard.py`
-4. Click **Deploy**.
+A Streamlit dashboard to explore energy‑intensive processes and their footprints:
 
-Any push to `main` will auto–redeploy your app.
+- 🔍 **Filter** processes by keyword  
+- 📊 **View** matching processes in a table  
+- 📈 **Bar charts** for:
+  - **Production energy input** (MJ)  
+  - **Energy content per unit** (MJ)
 
-## Local install
+## Demo
+
+[> Replace with your Streamlit Cloud URL once deployed](https://energyfootprints.streamlit.app/)
+
+## Repository Structure
+
+
 
 ```bash
 git clone https://github.com/AZFARHAD24511/energy-process-explorer.git
