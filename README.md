@@ -70,6 +70,13 @@ Electricity spot prices vary widely across Europe due to differences in generati
 - **Evaluation Metrics**  
   - Coefficient of determination ($R^2$)  
   - Mean Absolute Error (MAE)
+For access to the full article, please visit:
+## Impact of Latitude on European Electricity Prices: A Data-Driven Analysis
+For more details, please refer to the article below.
+**July 2025**  
+**URL:** [Impact of Latitude on European Electricity Prices: A Data-Driven Analysis](http://dx.doi.org/10.13140/RG.2.2.31353.17760)  
+**License:** CC BY 4.0
+
 
 ```python
 from sklearn.ensemble import RandomForestRegressor
@@ -81,13 +88,8 @@ rf.fit(X_train, y_train)
 y_pred = rf.predict(X_test)
 print(f"R²: {r2_score(y_test, y_pred):.3f}")
 print(f"MAE: {mean_absolute_error(y_test, y_pred):.2f} EUR/MWh")
+'''
 
 
 
-For access to the full article, please visit:
-# Impact of Latitude on European Electricity Prices: A Data-Driven Analysis
-
-**July 2025**  
-**DOI:** [10.13140/RG.2.2.31353.17760](http://dx.doi.org/10.13140/RG.2.2.31353.17760)  
-**License:** CC BY 4.0
 
