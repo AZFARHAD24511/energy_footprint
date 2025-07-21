@@ -85,5 +85,9 @@ print(f"MAE: {mean_absolute_error(y_test, y_pred):.2f} EUR/MWh")
 
 
 For access to the full article, please visit:
+# Impact of Latitude on European Electricity Prices: A Data-Driven Analysis
 
-[http://dx.doi.org/10.13140/RG.2.2.31353.17760](http://dx.doi.org/10.13140/RG.2.2.31353.17760)
+**July 2025**  
+**DOI:** [10.13140/RG.2.2.31353.17760](http://dx.doi.org/10.13140/RG.2.2.31353.17760)  
+**License:** CC BY 4.0
+
