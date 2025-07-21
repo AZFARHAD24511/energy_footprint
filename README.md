@@ -81,3 +81,9 @@ rf.fit(X_train, y_train)
 y_pred = rf.predict(X_test)
 print(f"R²: {r2_score(y_test, y_pred):.3f}")
 print(f"MAE: {mean_absolute_error(y_test, y_pred):.2f} EUR/MWh")
+
+
+
+For access to the full article, please visit:
+
+[http://dx.doi.org/10.13140/RG.2.2.31353.17760](http://dx.doi.org/10.13140/RG.2.2.31353.17760)
