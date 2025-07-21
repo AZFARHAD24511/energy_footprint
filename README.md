@@ -2,7 +2,7 @@
 
 This repository contains a data‑driven analysis of how geographic latitude influences day‑ahead wholesale electricity prices across 18 European market zones. Using publicly available EPEX SPOT data (January 2021 – June 2025), we demonstrate that latitude is the strongest predictor of price variation and build a Random Forest regression model to quantify its effect.
 
----
+![Top 10 Feature Importances](energy_price_latitude.png)
 
 ## Table of Contents
 
